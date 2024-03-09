@@ -1,0 +1,8 @@
+#modo-preparo {
+    max-width: 896px;
+}
+
+.left-border-green {
+    padding-left: 0.35rem;
+    border-left: 3px solid #4B8;
+}
